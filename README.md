@@ -1,4 +1,4 @@
-![GitHub Cover](https://github.com/adithyadewmina/adithyadewmina/cover.png)
+![GitHub Cover](https://github.com/adithyadewmina/adithyadewmina/blob/main/cover.png)
 
 
 
