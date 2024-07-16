@@ -1,3 +1,6 @@
+![GitHub Cover](https://github.com/adithyadewmina/adithyadewmina/cover.png)
+
+
 
 - 👋 Hi, I’m @adithyadewmina
 - 👀 I’m interested in coding
