@@ -55,11 +55,10 @@ I'm currently an undergraduate at the University of Ruhuna, studying computer sc
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyadewmina&show_icons=true&theme=light" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyadewmina&theme=light" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithyadewmina&theme=light" alt="GitHub Trophy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyadewmina&theme=light" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyadewmina&theme=minimal" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyadewmina&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyadewmina&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyadewmina&theme=dark" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyadewmina&theme=dark" alt="GitHub Trophy">
 </p>
 
 ---
